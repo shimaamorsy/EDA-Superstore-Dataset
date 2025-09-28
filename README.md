@@ -53,10 +53,11 @@ The dataset can be found on Kaggle:
 
 ## 🚀 How to Run
 1. Clone this repository:
-   ```git clone https://github.com/YourUsername/EDA-Superstore-Dataset.git```
+   ```git clone https://github.com/shimaamorsy/EDA-Superstore-Dataset.git```
 2. Open the notebook:
  ```jupyter notebook notebooks/EDA_Superstore.ipynb```
 
 ## 🧑‍💻 Author
 - Shaimaa Morsi Hamdy
   📧 Contact: [shimaamorsey8@gmail.com]
+
